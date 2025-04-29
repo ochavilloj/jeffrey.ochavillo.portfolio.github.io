@@ -1,11 +1,11 @@
 title: Jeffrey Ochavillo # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Aspiring Data Analyst/Scientist/Engineer
+  Aspiring Data Scientist/Analyst/Engineer 
   <br><br>
-  Based in Seattle, from Dededo, Guam
+  Seattle-based, Guam-raised
   <br><br>
-  <a href="https://www.linkedin.com/in/jeffrey-ochavillo/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
