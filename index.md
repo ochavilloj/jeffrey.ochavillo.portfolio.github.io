@@ -1,3 +1,5 @@
+## *My career goal is to produce data insights that can make a significant difference for companies or communities. I want to apply my technical skills in Python, R, SQL, and Excel to solve problems and tell compelling stories with data. Check my projects/work below👇*
+
 ## Portfolio
 
 ---
