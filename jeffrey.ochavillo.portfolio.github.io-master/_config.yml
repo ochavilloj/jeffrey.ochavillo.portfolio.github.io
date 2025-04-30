@@ -1,13 +1,18 @@
-title: Jeffrey Ochavillo # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Aspiring Data Scientist/Analyst/Engineer 
+title: Jeffrey Ochavillo
+logo: "/images/logo.png?raw=true"
+description: >
+  <b>Aspiring Data Scientist/Analyst/Engineer</b>
   <br><br>
-  Seattle-based, Guam-raised
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Seattle-based, Guam-raised<br>
+  Master of Data Science, Bachelor of Mathematics @ Seattle University<br>
+  <br>
+  <i>My career goal is to produce data insights that can make a significant difference for companies or communities. I want to apply my technical skills in Python, R, SQL, and Excel to solve problems and tell compelling stories with data.
   
+  I'm passionate about my community and innovative approaches to data. I hope to work or volunteer with local communities, non-profits, and Filipino organizations while pursuing professional opportunities.</i>
+  <br><br>
+  <li><a href="https://www.linkedin.com/in/jeffrey-ochavillo/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  - jekyll-remote-theme
+google_analytics: UA-000000-0
