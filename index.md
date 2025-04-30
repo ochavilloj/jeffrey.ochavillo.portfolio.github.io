@@ -2,10 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Nordstrom Product Analysis in Womens Department](/pdf/Nordstrom_Product_Data_Analysis.html)
+This project analyzes Nordstrom's women's product data to gain insights into pricing strategies, promotional effectiveness, product performance, and assortment planning.
+<img src="images/nordstrom_thumb.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,7 +18,7 @@
 
 ---
 
-### Category Name 2
+### Machine Learning
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,7 +28,7 @@
 
 ---
 
-## Resume
+### Resume
 
 
 
