@@ -1,12 +1,19 @@
 title: Jeffrey Ochavillo # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Aspiring Data Scientist/Analyst/Engineer 
-  <br><br>
+  <b> Aspiring Data Scientist/Analyst/Engineer </b>
+  <br></br>
   Seattle-based, Guam-raised
+  <br> Master of Data Science, Bachelor of Mathematics @ Seattle University <br>
+
+  <br><i> My career goals is to produce data insights that can make a huge difference for a company or community. I want to put into practice my technical abilities in Python, R, SQL, and Excel to solve problems and tell a story with any form of information given to me.
+							
+	I am passionate about my community and finding new ways to approach data. I still hope to work or volunteer with local communities, non-profits, and other Filipino organizations as I am looking for professional work. </i> </br>
+
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  #<a href="https://www.linkedin.com/in/yuewen-dai-a34159257/">View My LinkedIn Profile</a> 
+  <li><a href="https://www.linkedin.com/in/jeffrey-ochavillo/" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a></li>  
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
