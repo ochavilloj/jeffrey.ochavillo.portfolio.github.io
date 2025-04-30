@@ -6,7 +6,11 @@
 
 [Nordstrom Product Analysis in Womens Department](/pdf/Nordstrom_Product_Data_Analysis.html)
 This project analyzes Nordstrom's women's product data to gain insights into pricing strategies, promotional effectiveness, product performance, and assortment planning.
+
 <img src="images/nordstrom_thumb.png?raw=true"/>
+
+<br>
+<br><i> Skiils Used: Python </i>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
