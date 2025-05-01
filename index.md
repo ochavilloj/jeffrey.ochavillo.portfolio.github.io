@@ -30,7 +30,7 @@ This project explores the factors influencing the quality of red wine using mach
 <br>
 This project explores retail crime patterns in Downtown Seattle using ArcGIS, focusing on the heightened activity during the holiday season. Using spatial analysis techniques, I identified hot spots and cold spots for retail-related crimes such as robberies, theft, and burglaries. Key findings include high-density crime areas around shopping centers like West Lake Park, Marion Street, and East Pike Street. This analysis aims to assist local businesses, law enforcement, and city planners in understanding crime trends and implementing effective safety measures during critical shopping periods.
 
-<img src="images/nordstrom_thumb.png?raw=true"/>
+<img src="images/crime_analysis_thumb.png?raw=true"/>
 
 <br>
 <br><i> Skills Used: ARCGis </i>
