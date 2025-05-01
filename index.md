@@ -20,7 +20,7 @@ This project analyzes Nordstrom's women's product data to gain insights into pri
 <br>
 This project explores the factors influencing the quality of red wine using machine learning techniques like Principal Component Analysis (PCA), K-Means Clustering, and Convolutional Neural Networks (CNNs). The focus is on a dataset from the Portuguese 'Vinho Verde' variant, analyzing physicochemical properties such as volatile acidity, chlorides, total sulfur dioxide, sulfates, and alcohol. The goal is to identify key variables that impact wine quality, offering insights into the structure of the data and predicting wine ratings. With a CNN model tuned for optimal performance, this project achieves a test accuracy of 53.6%, providing a foundation for understanding the nuances of red wine quality through data science.
 
-<img src="images/nordstrom_thumb.png?raw=true"/>
+<img src="alcohol_analysis_thumb.png?raw=true"/>
 
 <br>
 <br><i> Skills Used: RStudio </i>
